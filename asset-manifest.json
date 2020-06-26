@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/testreact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/testreact/static/js/main.51a5ba52.chunk.js",
-    "main.js.map": "/testreact/static/js/main.51a5ba52.chunk.js.map",
+    "main.css": "/testreact/static/css/main.e0a4113f.chunk.css",
+    "main.js": "/testreact/static/js/main.e82a8072.chunk.js",
+    "main.js.map": "/testreact/static/js/main.e82a8072.chunk.js.map",
     "runtime-main.js": "/testreact/static/js/runtime-main.b1e4199e.js",
     "runtime-main.js.map": "/testreact/static/js/runtime-main.b1e4199e.js.map",
-    "static/js/2.b376dd8b.chunk.js": "/testreact/static/js/2.b376dd8b.chunk.js",
-    "static/js/2.b376dd8b.chunk.js.map": "/testreact/static/js/2.b376dd8b.chunk.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/testreact/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.466fbc0a.chunk.js": "/testreact/static/js/2.466fbc0a.chunk.js",
+    "static/js/2.466fbc0a.chunk.js.map": "/testreact/static/js/2.466fbc0a.chunk.js.map",
     "index.html": "/testreact/index.html",
-    "precache-manifest.0d4bf1b230b1aa68b9bfa42f8d882757.js": "/testreact/precache-manifest.0d4bf1b230b1aa68b9bfa42f8d882757.js",
+    "precache-manifest.bf392f1ded80023ce3714fbfa5160921.js": "/testreact/precache-manifest.bf392f1ded80023ce3714fbfa5160921.js",
     "service-worker.js": "/testreact/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/testreact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b376dd8b.chunk.js.LICENSE.txt": "/testreact/static/js/2.b376dd8b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/testreact/static/media/logo.5d5d9eef.svg"
+    "static/css/2.829c9cb5.chunk.css.map": "/testreact/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.e0a4113f.chunk.css.map": "/testreact/static/css/main.e0a4113f.chunk.css.map",
+    "static/js/2.466fbc0a.chunk.js.LICENSE.txt": "/testreact/static/js/2.466fbc0a.chunk.js.LICENSE.txt",
+    "static/media/astronauts.svg": "/testreact/static/media/astronauts.71addf45.svg",
+    "static/media/badge-header.svg": "/testreact/static/media/badge-header.973f5842.svg",
+    "static/media/logo.svg": "/testreact/static/media/logo.0026b862.svg",
+    "static/media/platziconf-logo.svg": "/testreact/static/media/platziconf-logo.f246f5f1.svg",
+    "static/media/BadgeDetails.css": "/testreact/static/media/stars.1d17360a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b1e4199e.js",
-    "static/js/2.b376dd8b.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.51a5ba52.chunk.js"
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.466fbc0a.chunk.js",
+    "static/css/main.e0a4113f.chunk.css",
+    "static/js/main.e82a8072.chunk.js"
   ]
 }
